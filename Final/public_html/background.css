@@ -1,0 +1,16 @@
+body {
+background: url(https://image.freepik.com/free-vector/abstract-hand-painted-watercolor-sky-clouds-background_100956-418.jpg);
+background-size: cover;
+background-position: center;
+font-family: Arial;
+color: black;
+}
+
+html {    /*to make the image to cover the whole page*/
+height: 100%;
+}
+
+#upload{
+text-align: center;
+padding-top: 100px;
+}
